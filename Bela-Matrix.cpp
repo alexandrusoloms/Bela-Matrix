@@ -1,7 +1,7 @@
 //
 // Created by mariussolomes on 02/07/19.
 //
-#include "library.h"
+#include "Bela-Matrix.h"
 
 /* constructor */
 Matrix::Matrix(int r, int c): rows(r), cols(c){

@@ -2,8 +2,8 @@
 // Created by mariussolomes on 02/07/19.
 //
 
-#ifndef BELA_MATRIX_LIBRARY_H
-#define BELA_MATRIX_LIBRARY_H
+#ifndef BELA_MATRIX_BELA_MATRIX_H
+#define BELA_MATRIX_BELA_MATRIX_H
 
 #include <iostream>
 #include <complex>
@@ -45,4 +45,4 @@ void saveMatrix(Matrix* m);
  * FEATURE-02/FIXING NORMALISER
  */
 Matrix matrixElementsUpto(Matrix* m, int position);
-#endif //BELA_MATRIX_LIBRARY_H
+#endif //BELA_MATRIX_BELA_MATRIX_H
